@@ -1,0 +1,16 @@
+{
+  "name": "kiryuu-rest-api",
+  "version": "0.1.0",
+  "description": "Kiryuu.co Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Nunu27",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1"
+  }
+}
